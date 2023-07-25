@@ -1,0 +1,2 @@
+# GlobalAi_DiamondVeriseti_VeriAnalizi
+Diamond verisetini kullanarak analizlerimizi gerçekleştirdik
